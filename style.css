@@ -146,7 +146,7 @@ a:hover{
 
 
 
-@media screen and (max-width:416px) {
+@media screen and (max-width:500px) {
     .form-control{
         width: 250px !important;
        border-radius: 5px;
