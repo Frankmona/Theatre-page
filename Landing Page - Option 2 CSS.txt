@@ -1,0 +1,1723 @@
+/* Landing Page-Option 2 */
+
+position: relative;
+width: 1920px;
+height: 3261px;
+overflow-y: scroll;
+
+background: #FFFFFF;
+
+
+/* Rectangle 145 */
+
+position: absolute;
+width: 1920px;
+height: 516px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg), #D9D9D9;
+
+
+/* Rectangle 146 */
+
+position: absolute;
+width: 1920px;
+height: 516px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0.04) 100%);
+
+
+/* Rorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. */
+
+position: absolute;
+width: 867px;
+height: 108px;
+left: 160px;
+top: 292px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 36px;
+/* or 106% */
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+
+/* World of Shows */
+
+position: absolute;
+width: 463px;
+height: 24px;
+left: 160px;
+top: 228px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 24px;
+/* identical to box height, or 40% */
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+
+/* Company Logo */
+
+position: absolute;
+width: 114px;
+height: 96px;
+left: 148px;
+top: 27px;
+
+background: url(617910d3-e584-4efe-8a0b-de5b9a6af43a (1));
+
+
+/* Group 3636 */
+
+position: absolute;
+width: 800px;
+height: 60px;
+left: 316px;
+top: 45px;
+
+
+
+/* Rectangle 72 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 800px;
+height: 60px;
+left: 316px;
+top: 45px;
+
+background: #FFFFFF;
+border: 1px solid #525252;
+border-radius: 0px 8px 8px 0px;
+
+
+/* akar-icons:search */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 3px;
+gap: 10px;
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1060px;
+top: 53px;
+
+background: #A90F12;
+border-radius: 8px;
+
+
+/* Vector */
+
+width: 18px;
+height: 18px;
+
+border: 2px solid #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Search */
+
+position: absolute;
+width: 179px;
+height: 28px;
+left: 348px;
+top: 64px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+letter-spacing: 0.25px;
+
+color: #525252;
+
+
+
+/* Frame 151 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 168px;
+height: 60px;
+left: 1464px;
+top: 45px;
+
+background: #A90F12;
+border-radius: 4px;
+
+
+/* Sign Up */
+
+width: 113px;
+height: 41px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 41px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 847 */
+
+position: absolute;
+width: 88px;
+height: 40px;
+left: 1672px;
+top: 55px;
+
+
+
+/* akar-icons:chevron-down */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 68px;
+top: 10px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 30%;
+bottom: 36.67%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Switcher */
+
+position: absolute;
+width: 60px;
+height: 40px;
+left: 0px;
+top: 0px;
+
+background: url(US-United-States-Flag-icon);
+
+
+/* Frame 870 */
+
+position: absolute;
+width: 1920px;
+height: 490px;
+left: 0px;
+top: 2771px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 1920px;
+height: 490px;
+left: 0px;
+bottom: 0px;
+
+background: #A90F12;
+
+
+/* Frame 864 */
+
+position: absolute;
+width: 89px;
+height: 127px;
+left: 168px;
+top: 157px;
+
+
+
+/* About */
+
+position: absolute;
+width: 73px;
+height: 29px;
+left: 0px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Articles */
+
+position: absolute;
+width: 86px;
+height: 29px;
+left: 0px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Careers */
+
+position: absolute;
+width: 89px;
+height: 29px;
+left: 0px;
+top: 98px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 869 */
+
+position: absolute;
+width: 382px;
+height: 68px;
+left: 1388px;
+top: 250px;
+
+
+
+/* Company Logo */
+
+position: absolute;
+width: 80px;
+height: 68px;
+left: 0px;
+top: 0px;
+
+background: url(617910d3-e584-4efe-8a0b-de5b9a6af43a (1));
+
+
+/* Frame 868 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 292px;
+height: 49px;
+left: 90px;
+top: 10px;
+
+
+
+/* bi:c-circle */
+
+width: 18px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* World of Shows 2023 */
+
+width: 244px;
+height: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 862 */
+
+position: absolute;
+width: 319px;
+height: 176px;
+left: 606px;
+top: 157px;
+
+
+
+/* Support */
+
+position: absolute;
+width: 96px;
+height: 29px;
+left: 0px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frequently Asked Questions */
+
+position: absolute;
+width: 319px;
+height: 29px;
+left: 0px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Contact Us */
+
+position: absolute;
+width: 128px;
+height: 29px;
+left: 0px;
+top: 147px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Account and Billing */
+
+position: absolute;
+width: 218px;
+height: 29px;
+left: 0px;
+top: 98px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 863 */
+
+position: absolute;
+width: 189px;
+height: 127px;
+left: 337px;
+top: 157px;
+
+
+
+/* Offers */
+
+position: absolute;
+width: 75px;
+height: 29px;
+left: 0px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Redeem Code */
+
+position: absolute;
+width: 161px;
+height: 29px;
+left: 0px;
+top: 98px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pricing Schemes */
+
+position: absolute;
+width: 189px;
+height: 29px;
+left: 0px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 866 */
+
+position: absolute;
+width: 308px;
+height: 34px;
+left: 1425px;
+top: 172px;
+
+
+
+/* akar-icons:instagram-fill */
+
+position: absolute;
+width: 32px;
+height: 33px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.17%;
+
+background: #FFFFFF;
+
+
+/* akar-icons:facebook-fill */
+
+position: absolute;
+width: 32px;
+height: 33px;
+left: 92px;
+bottom: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* akar-icons:twitter-fill */
+
+position: absolute;
+width: 32px;
+height: 33px;
+left: 184px;
+bottom: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.9%;
+right: 1.49%;
+top: 11.45%;
+bottom: 11.64%;
+
+background: #FFFFFF;
+
+
+/* akar-icons:youtube-fill */
+
+position: absolute;
+width: 32px;
+height: 34px;
+left: 276px;
+bottom: 0px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: -0.01%;
+top: 16.65%;
+bottom: 16.65%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: -0.01%;
+top: 16.65%;
+bottom: 16.65%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: -0.01%;
+top: 16.65%;
+bottom: 16.65%;
+
+background: #FFFFFF;
+
+
+/* Frame 47 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 99px;
+height: 41px;
+left: 1325px;
+top: 55px;
+
+
+
+/* Help */
+
+width: 75px;
+height: 41px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+line-height: 41px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* akar-icons:chevron-down */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 37.5%;
+bottom: 29.17%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Group 3653 */
+
+position: absolute;
+left: 7.71%;
+right: 65.62%;
+top: 17.05%;
+bottom: 65.19%;
+
+
+
+/* Rectangle 166 */
+
+position: absolute;
+left: 7.71%;
+right: 65.62%;
+top: 17.05%;
+bottom: 65.19%;
+
+background: #FFFFFF;
+box-shadow: 2px 2px 4px 4px rgba(205, 205, 205, 0.25);
+
+
+/* Find Show */
+
+position: absolute;
+left: 12.86%;
+right: 70.78%;
+top: 18.83%;
+bottom: 79.3%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 36px;
+/* or 75% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* current popular shows in your area. */
+
+position: absolute;
+left: 8.8%;
+right: 68.65%;
+top: 21.31%;
+bottom: 76.48%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 36px;
+/* or 106% */
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Frame 884 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+left: 10.89%;
+right: 68.8%;
+top: 30.57%;
+bottom: 66.97%;
+
+background: #A90F12;
+border-radius: 8px;
+
+
+/* Find Shows */
+
+width: 175px;
+height: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 36px;
+/* identical to box height, or 106% */
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 89 */
+
+position: absolute;
+left: 8.8%;
+right: 83.39%;
+top: 24.75%;
+bottom: 70.65%;
+
+background: url(image);
+
+
+/* image 90 */
+
+position: absolute;
+left: 17.14%;
+right: 75.05%;
+top: 24.75%;
+bottom: 70.65%;
+
+background: url(image);
+
+
+/* image 91 */
+
+position: absolute;
+left: 25.47%;
+right: 66.72%;
+top: 24.75%;
+bottom: 70.65%;
+
+background: url(image);
+
+
+/* Group 3657 */
+
+position: absolute;
+left: 36.67%;
+right: 36.67%;
+top: 37.87%;
+bottom: 44.37%;
+
+
+
+/* Rectangle 166 */
+
+position: absolute;
+left: 36.67%;
+right: 36.67%;
+top: 37.87%;
+bottom: 44.37%;
+
+background: #FFFFFF;
+box-shadow: 2px 2px 4px 4px rgba(205, 205, 205, 0.25);
+
+
+/* Find Audition */
+
+position: absolute;
+left: 41.3%;
+right: 41.3%;
+top: 39.65%;
+bottom: 58.48%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 36px;
+/* or 75% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Find open castings and audition near you. */
+
+position: absolute;
+left: 37.76%;
+right: 39.69%;
+top: 42.13%;
+bottom: 55.66%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 36px;
+/* or 106% */
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Frame 884 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+left: 39.84%;
+right: 39.84%;
+top: 51.4%;
+bottom: 46.15%;
+
+background: #A90F12;
+border-radius: 8px;
+
+
+/* Find Audition */
+
+width: 225px;
+height: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 36px;
+/* identical to box height, or 106% */
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 89 */
+
+position: absolute;
+left: 37.76%;
+right: 54.43%;
+top: 45.57%;
+bottom: 49.83%;
+
+background: url(.jpg);
+
+
+/* image 90 */
+
+position: absolute;
+left: 46.09%;
+right: 46.09%;
+top: 45.57%;
+bottom: 49.83%;
+
+background: url(.jpg);
+
+
+/* image 91 */
+
+position: absolute;
+left: 54.43%;
+right: 37.76%;
+top: 45.57%;
+bottom: 49.83%;
+
+background: url(.jpg);
+
+
+/* Group 3655 */
+
+position: absolute;
+left: 65.62%;
+right: 7.71%;
+top: 17.05%;
+bottom: 65.19%;
+
+
+
+/* Rectangle 166 */
+
+position: absolute;
+left: 65.62%;
+right: 7.71%;
+top: 17.05%;
+bottom: 65.19%;
+
+background: #FFFFFF;
+box-shadow: 2px 2px 4px 4px rgba(205, 205, 205, 0.25);
+
+
+/* Find Venue */
+
+position: absolute;
+left: 70.78%;
+right: 12.86%;
+top: 18.83%;
+bottom: 79.3%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 36px;
+/* or 75% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Looking for venue for your shows? */
+
+position: absolute;
+left: 66.72%;
+right: 10.73%;
+top: 21.31%;
+bottom: 76.48%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 36px;
+/* or 106% */
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Frame 884 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+left: 68.8%;
+right: 10.89%;
+top: 30.57%;
+bottom: 66.97%;
+
+background: #A90F12;
+border-radius: 8px;
+
+
+/* Find Venue */
+
+width: 189px;
+height: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 36px;
+/* identical to box height, or 106% */
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 89 */
+
+position: absolute;
+left: 66.72%;
+right: 25.47%;
+top: 24.75%;
+bottom: 70.65%;
+
+background: url(.jpg);
+
+
+/* image 90 */
+
+position: absolute;
+left: 75.05%;
+right: 17.14%;
+top: 24.75%;
+bottom: 70.65%;
+
+background: url(.jpg);
+
+
+/* image 91 */
+
+position: absolute;
+left: 83.39%;
+right: 8.8%;
+top: 24.75%;
+bottom: 70.65%;
+
+background: url(.jpg);
+
+
+/* Group 3654 */
+
+position: absolute;
+left: 36.67%;
+right: 36.67%;
+top: 17.05%;
+bottom: 65.19%;
+
+
+
+/* Rectangle 166 */
+
+position: absolute;
+left: 36.67%;
+right: 36.67%;
+top: 17.05%;
+bottom: 65.19%;
+
+background: #FFFFFF;
+box-shadow: 2px 2px 4px 4px rgba(205, 205, 205, 0.25);
+
+
+/* Take Class */
+
+position: absolute;
+left: 41.82%;
+right: 41.82%;
+top: 18.83%;
+bottom: 79.3%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 36px;
+/* or 75% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* popular classes for your interests. */
+
+position: absolute;
+left: 37.76%;
+right: 39.69%;
+top: 21.31%;
+bottom: 76.48%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 36px;
+/* or 106% */
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Frame 884 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+left: 39.84%;
+right: 39.84%;
+top: 30.57%;
+bottom: 66.97%;
+
+background: #A90F12;
+border-radius: 8px;
+
+
+/* Find Shows */
+
+width: 183px;
+height: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 36px;
+/* identical to box height, or 106% */
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 89 */
+
+position: absolute;
+left: 37.76%;
+right: 54.43%;
+top: 24.75%;
+bottom: 70.65%;
+
+background: url(.jpg);
+
+
+/* image 90 */
+
+position: absolute;
+left: 46.09%;
+right: 46.09%;
+top: 24.75%;
+bottom: 70.65%;
+
+background: url(.jpg);
+
+
+/* image 91 */
+
+position: absolute;
+left: 54.43%;
+right: 37.76%;
+top: 24.75%;
+bottom: 70.65%;
+
+background: url(.jpg);
+
+
+/* Group 3659 */
+
+position: absolute;
+left: 7.71%;
+right: 65.62%;
+top: 58.69%;
+bottom: 23.55%;
+
+
+
+/* Rectangle 166 */
+
+position: absolute;
+left: 7.71%;
+right: 65.62%;
+top: 58.69%;
+bottom: 23.55%;
+
+background: #FFFFFF;
+box-shadow: 2px 2px 4px 4px rgba(205, 205, 205, 0.25);
+
+
+/* Rent Venue */
+
+position: absolute;
+left: 12.86%;
+right: 70.78%;
+top: 60.47%;
+bottom: 37.66%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 36px;
+/* or 75% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Rent your venue and give details about your venue. */
+
+position: absolute;
+left: 8.8%;
+right: 68.65%;
+top: 62.96%;
+bottom: 34.84%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 36px;
+/* or 106% */
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Frame 884 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+left: 10.89%;
+right: 68.8%;
+top: 72.22%;
+bottom: 25.33%;
+
+background: #A90F12;
+border-radius: 8px;
+
+
+/* Rent Venue */
+
+width: 194px;
+height: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 36px;
+/* identical to box height, or 106% */
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 92 */
+
+position: absolute;
+left: 8.8%;
+right: 83.39%;
+top: 66.39%;
+bottom: 29.01%;
+
+background: url(.jpg);
+
+
+/* image 93 */
+
+position: absolute;
+left: 17.14%;
+right: 75.05%;
+top: 66.39%;
+bottom: 29.01%;
+
+background: url(.jpg);
+
+
+/* image 94 */
+
+position: absolute;
+left: 25.47%;
+right: 66.72%;
+top: 66.39%;
+bottom: 29.01%;
+
+background: url(.jpg);
+
+
+/* Group 3658 */
+
+position: absolute;
+left: 65.62%;
+right: 7.71%;
+top: 37.87%;
+bottom: 44.37%;
+
+
+
+/* Rectangle 166 */
+
+position: absolute;
+left: 65.62%;
+right: 7.71%;
+top: 37.87%;
+bottom: 44.37%;
+
+background: #FFFFFF;
+box-shadow: 2px 2px 4px 4px rgba(205, 205, 205, 0.25);
+
+
+/* Share Audition */
+
+position: absolute;
+left: 69.79%;
+right: 11.88%;
+top: 39.65%;
+bottom: 58.48%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 36px;
+/* or 75% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Looking for the best candidates? */
+
+position: absolute;
+left: 66.72%;
+right: 10.73%;
+top: 42.13%;
+bottom: 55.66%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 36px;
+/* or 106% */
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Frame 884 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+left: 68.8%;
+right: 10.89%;
+top: 51.4%;
+bottom: 46.15%;
+
+background: #A90F12;
+border-radius: 8px;
+
+
+/* Share Audition */
+
+width: 250px;
+height: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 36px;
+/* identical to box height, or 106% */
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 89 */
+
+position: absolute;
+left: 66.72%;
+right: 25.47%;
+top: 45.57%;
+bottom: 49.83%;
+
+background: url(.jpg);
+
+
+/* image 90 */
+
+position: absolute;
+left: 75.05%;
+right: 17.14%;
+top: 45.57%;
+bottom: 49.83%;
+
+background: url(.jpg);
+
+
+/* image 91 */
+
+position: absolute;
+left: 83.39%;
+right: 8.8%;
+top: 45.57%;
+bottom: 49.83%;
+
+background: url(.jpg);
+
+
+/* Group 3656 */
+
+position: absolute;
+left: 7.71%;
+right: 65.62%;
+top: 37.87%;
+bottom: 44.37%;
+
+
+
+/* Rectangle 166 */
+
+position: absolute;
+left: 7.71%;
+right: 65.62%;
+top: 37.87%;
+bottom: 44.37%;
+
+background: #FFFFFF;
+box-shadow: 2px 2px 4px 4px rgba(205, 205, 205, 0.25);
+
+
+/* Share Play Read */
+
+position: absolute;
+left: 10.83%;
+right: 68.75%;
+top: 39.65%;
+bottom: 58.48%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 36px;
+/* or 75% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Play read around your area. */
+
+position: absolute;
+left: 8.8%;
+right: 68.65%;
+top: 42.13%;
+bottom: 55.66%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 36px;
+/* or 106% */
+letter-spacing: 0.25px;
+
+color: #202020;
+
+
+
+/* Frame 884 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+left: 10.89%;
+right: 68.8%;
+top: 51.4%;
+bottom: 46.15%;
+
+background: #A90F12;
+border-radius: 8px;
+
+
+/* Find Shows */
+
+width: 270px;
+height: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 36px;
+/* identical to box height, or 106% */
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 89 */
+
+position: absolute;
+left: 8.8%;
+right: 83.39%;
+top: 45.57%;
+bottom: 49.83%;
+
+background: url(.jpg);
+
+
+/* image 90 */
+
+position: absolute;
+left: 17.14%;
+right: 75.05%;
+top: 45.57%;
+bottom: 49.83%;
+
+background: url(.jpg);
+
+
+/* image 91 */
+
+position: absolute;
+left: 25.47%;
+right: 66.72%;
+top: 45.57%;
+bottom: 49.83%;
+
+background: url(.jpg);
