@@ -152,7 +152,7 @@ a:hover{
   }
 
 
-
+/* phone screen */
 @media screen and (max-width:500px) {
     .form-control{
         width: 150px !important;
@@ -252,6 +252,7 @@ body{
 
 }
 
+/* ipad screen */
 @media  screen and (max-width:900px){
     .form-control{
         width: 150px !important;
